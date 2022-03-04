@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\n\ The\ world\ that\ shows\ instuctions\ on\ how\ to\ play\ the\ game\n\ \n\ @author\ (Jason,\ Picture\ by\ Ricky)\ \n\ @date\ (April\ 11,\ 2019)\n
+comment1.params=
+comment1.target=Instructions()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
